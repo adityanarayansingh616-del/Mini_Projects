@@ -1,0 +1,6 @@
+a=float(input("Enter coefficient of x square:"))
+b=float(input("Enter coefficient of x:"))
+c=float(input("Enter third coefficient:"))
+x1=(-b+(b**2-4*a*c)**(1/2))/(2*a)
+x2=(-b-(b**2-4*a*c)**(1/2))/(2*a)
+print("Root 1=",x1,"\nRoot 2=",x2)

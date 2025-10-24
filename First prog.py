@@ -1,0 +1,1 @@
+print("Hello PYTHON,I'm Aditya Narayan Singh. I came here in CBSE Class 11 after scoring a perfect 100 in ICSE Class 10 Computer Applications.")
