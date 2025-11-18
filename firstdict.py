@@ -1,4 +1,4 @@
-d={}
+d=dict()
 print("Enter details of 5 students:")
 for i in range(5):
     print("Student",i+1)
