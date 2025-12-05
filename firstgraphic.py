@@ -2,11 +2,13 @@ import turtle as t
 t.speed(1)
 t.bgcolor("black")
 t.pensize(3)
+t.pencolor("white")
 def func():
     for i in range(200):
         t.right(1)
         t.forward(1)
-t.color("cyan")
+t.colormode(255)
+t.fillcolor(60,255,255)
 t.begin_fill()
 t.left(140)
 t.forward(111.65)
