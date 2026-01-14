@@ -1,0 +1,16 @@
+from turtle import *
+Screen()
+Turtle()
+setup(800,500)
+shape("classic")
+bgcolor("black")
+pencolor("cyan")
+pensize(3)
+speed(0)
+for i in range(9):
+    lt(80)
+    fd(150)
+    rt(160)
+    fd(150)
+hideturtle()
+done()
