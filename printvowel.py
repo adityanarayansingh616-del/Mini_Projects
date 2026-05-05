@@ -1,0 +1,17 @@
+def printline():
+    with open("File","r") as fob:
+        lines=fob.readlines()
+        for line in lines:
+            words=line.split()
+            for word in words:
+                check=False
+                for char in word:
+                    if char in "AEIOUaeiou":
+                        check=True
+                        break
+                if check==False:
+                    break
+            if check:
+                print(line,end=str())
+printline()
+
