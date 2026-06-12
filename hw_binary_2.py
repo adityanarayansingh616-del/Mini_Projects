@@ -21,4 +21,4 @@ def search():
 add()
 search()
 f.close()
-#Can also be done by dumping dicts one by one instead of one go in the form of list containing dicts.
+#Can also be done by dumping dicts one by one instead of one go in the form of list containing dicts..
