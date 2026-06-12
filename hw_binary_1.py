@@ -1,28 +1,28 @@
 import pickle as pk
 fob=open("filebinary","wb+")
 def add():
-    l=list()
+    l=rec=list()
     n=int(input("Enter no. of records:"))
     for i in range(n):
         name=input("Enter name:")
         roll=int(input("Enter roll:"))
         marks=float(input("Enter marks:"))
         l=[name,roll,marks]
-        pk.dump(l,fob)
+        rec.append(l)
+    pk.dump(rec,fob)
 def update():
     fob.seek(0)
-    updroll=int(input("Enter roll number for marks updation:"))
-    while True:
-        try:
-            data=pk.load(fob)
-            if updroll==data[1]:
-                data[2]+=1
-            print(data,end=",")
-        except EOFError:
-            break
-    fob.seek(-1,1)
+    data=pk.load(fob)
+    updroll=int(input("Enter roll for updation:"))
+    for i in range(len(data)):
+        if data[i][1]==updroll:
+            data[i][2]+=1
+    fob.seek(0)
     pk.dump(data,fob)
+    fob.seek(0)
+    print(pk.load(fob))
 add()
 update()
+fob.close()
 #Best method is to dump in one go and then update and print whole file data.
 
