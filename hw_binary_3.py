@@ -78,9 +78,7 @@ while True:
         print("Incorrect choice.")
 #You can also create two more funcs to reduce the length of this code without altering logic. One for loading records and one for saving updated records.
 '''import pickle
-
 FILENAME = "filebinary"
-
 def load_records():
     try:
         with open(FILENAME, "rb") as f:
