@@ -1,2 +1,2 @@
 Mini_Projects
-Simple beginner friendly python codes for learning and fun.
+Simple beginner friendly codes for learning and fun.
