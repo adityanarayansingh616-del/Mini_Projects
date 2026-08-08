@@ -1,3 +1,4 @@
+#To count the number of digit characters in a string.
 S=input("Enter a String:")
 c=0
 for i in S:

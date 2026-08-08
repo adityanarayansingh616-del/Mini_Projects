@@ -1,3 +1,4 @@
+#To check if a word is balanced (sum of ASCII values of both halves are equal).
 import math
 fh=0;sh=0
 w=input("Enter a word:")

@@ -1,3 +1,4 @@
+#To find palindromic numbers between 10-1000 and print them in a pyramid layout.
 l=[];r=1;k=0
 for i in range(10,1001):
     d=0;ri=0;x=i

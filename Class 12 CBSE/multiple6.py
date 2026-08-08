@@ -1,3 +1,4 @@
+#To filter numbers divisible by 9 and ending in 2 or 6 from a list.
 def Multiple6(L):
     l=[]
     for i in L:

@@ -1,3 +1,4 @@
+#To print all composite numbers up to n and return their count.
 def composite(n):
     c=0
     for i in range(1,n+1):

@@ -1,3 +1,4 @@
+#To copy words that start and end with a vowel into a new list.
 def CopyVowel(S):
     Copied=[];v="AEIOUaeiou"
     for i in S:

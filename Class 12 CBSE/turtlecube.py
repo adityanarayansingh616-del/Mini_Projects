@@ -1,3 +1,4 @@
+#To draw a 3D cube-like shape using turtle graphics.
 import turtle as u
 s=u.Screen()
 t=u.Turtle()

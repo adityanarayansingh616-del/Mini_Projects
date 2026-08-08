@@ -1,3 +1,4 @@
+#To capitalize the second letter of each word in a string.
 nS=""
 S=input("Enter a String:");S=" "+S
 for i in range (len(S)):

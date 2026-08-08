@@ -1,3 +1,4 @@
+#To check whether a number is an Armstrong number (sum of cubes of digits equals the number).
 n=int(input("Enter n:"))
 s=0;d=0;k=n
 while n:

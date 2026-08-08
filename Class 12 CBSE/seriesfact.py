@@ -1,3 +1,4 @@
+#To compute the Taylor series sum for sin(x) up to n terms.
 def fact(k):
     f=1
     for i in range(1,k+1):

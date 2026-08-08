@@ -1,3 +1,4 @@
+#To print consecutive numbers in a triangular pattern.
 k=0#Statically initialized before use.
 n=int(input("Enter n:"))#Dynamically initialized before use.
 for i in range(1,n+1):

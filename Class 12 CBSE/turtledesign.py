@@ -1,3 +1,4 @@
+#To draw a star-like geometric design using turtle graphics.
 from turtle import *
 Screen()
 Turtle()

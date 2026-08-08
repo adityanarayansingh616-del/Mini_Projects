@@ -1,3 +1,4 @@
+#To add a contact to a phone dictionary if the mobile number is not already present.
 def add_contact(phone,name,mobile):
     if mobile in phone:
         print("Contact already exists")

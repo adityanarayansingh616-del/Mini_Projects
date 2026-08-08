@@ -1,3 +1,4 @@
+#To compute the Taylor series sum for cos(x) up to n terms.
 import math
 def SumSeries(x,n):
     sign=1;sum=1

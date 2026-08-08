@@ -1,3 +1,4 @@
+#To expand a binomial expression to a given index using binomial coefficients.
 import math
 bin=input("Enter a binomial expression:")
 index=int(input("Enter its index:"))

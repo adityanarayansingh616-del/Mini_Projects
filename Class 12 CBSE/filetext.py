@@ -1,3 +1,4 @@
+#To write 5 lines to a file and print lines with 4 or more words.
 f=open("File","w+")
 def addlines():
      l=list()

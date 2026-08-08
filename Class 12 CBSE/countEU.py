@@ -1,3 +1,4 @@
+#To print words containing both E and U, and count total E and U occurrences.
 def countEU(s):
     words=s.split()
     for word in words:

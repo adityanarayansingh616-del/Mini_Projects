@@ -1,3 +1,4 @@
+#To reverse words starting with I/i and lowercase all other words in a sentence.
 def RevText(sen):
     word="";sen=sen.strip()
     for ch in (sen+" "):

@@ -1,3 +1,4 @@
+#To write and read a dictionary from a binary file using pickle.
 import pickle
 f=open("filebinary","wb+")
 d={"Name":"Aditya","Marks":95}

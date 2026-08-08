@@ -1,3 +1,4 @@
+#To append phone records to a binary file and search by mobile number.
 import pickle
 n=int(input("Enter no. of data:"))
 f=open(r"C:\Users\adity\OneDrive\Documents\PhoneList.dat","ab")

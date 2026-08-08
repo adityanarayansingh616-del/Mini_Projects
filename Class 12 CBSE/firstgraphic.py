@@ -1,3 +1,4 @@
+#To draw a filled curved shape using turtle graphics.
 import turtle as t
 t.speed(1)
 t.bgcolor("black")

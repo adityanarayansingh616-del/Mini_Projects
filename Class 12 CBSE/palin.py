@@ -1,3 +1,4 @@
+#To check if one string equals the reverse of another (palindrome pair check).
 def palin(s1,s2):
     if s1.lower()==s2[::-1].lower():
         print("Palindrome.")

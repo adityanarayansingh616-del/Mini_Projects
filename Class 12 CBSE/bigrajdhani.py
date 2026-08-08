@@ -1,3 +1,4 @@
+#To find capitals of states with name length >6 and population of at least 6 digits.
 def bigrajdhani(country):
     BigRajdhani=list()
     for state in country:

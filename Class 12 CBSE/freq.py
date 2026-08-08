@@ -1,3 +1,4 @@
+#To count frequency of each character in a string (case-insensitive).
 s=input("Enter a String:");d={}
 for i in s:
     x=i.lower()

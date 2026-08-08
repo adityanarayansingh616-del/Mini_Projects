@@ -1,3 +1,4 @@
+#To print all perfect numbers up to a given integer.
 def Perfect_No(num):
     for i in range(1,num+1):
         sum=0

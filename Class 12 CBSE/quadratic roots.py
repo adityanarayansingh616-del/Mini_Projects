@@ -1,3 +1,4 @@
+#To calculate the two roots of a quadratic equation using the quadratic formula.
 a=float(input("Enter coefficient of x square:"))
 b=float(input("Enter coefficient of x:"))
 c=float(input("Enter third coefficient:"))

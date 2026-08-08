@@ -1,3 +1,4 @@
+#To append lines to a file and count vowels, uppercase, lowercase, digits, and spaces.
 f=open("File","a+")
 def add():
     lines=[]

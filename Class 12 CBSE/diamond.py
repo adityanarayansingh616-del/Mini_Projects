@@ -1,3 +1,4 @@
+#To print a diamond pattern of stars using nested loops.
 for i in range(1,6):
     if i==1 or i==5:
         k=3

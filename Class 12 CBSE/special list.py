@@ -1,3 +1,4 @@
+#To modify a list: subtract 2 from evens and double odds.
 l=[]
 n=int(input("Enter no.of elements to be entered:"))
 print("Enter",n,"numbers:")

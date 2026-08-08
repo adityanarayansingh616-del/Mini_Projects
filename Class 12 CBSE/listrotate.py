@@ -1,3 +1,4 @@
+#To rotate a list left by n positions using insert and append.
 l=[];nl=[]
 n=int(input("Enter number of elements to be entered:"))
 print("Enter",n,"elements:")

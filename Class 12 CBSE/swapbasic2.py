@@ -1,3 +1,4 @@
+#To swap adjacent pairs of elements in a user-entered list.
 l=list()
 n=int(input("Enter n:"))
 print("Enter",n,"integers:")

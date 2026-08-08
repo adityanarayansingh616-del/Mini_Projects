@@ -1,3 +1,4 @@
+#To uppercase characters at odd indices in a string.
 ns=""
 s=input("Enter a string:")
 for i in range(len(s)):

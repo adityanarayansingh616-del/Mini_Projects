@@ -1,3 +1,4 @@
+#To print a number pyramid pattern with decreasing digits per row.
 for i in range(1,6):
     for j in range(5,-6,-1):
         if j==0 or j==-1:

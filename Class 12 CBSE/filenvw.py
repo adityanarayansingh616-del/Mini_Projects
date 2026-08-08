@@ -1,3 +1,4 @@
+#To print words from a file that contain no vowels.
 def wordnv():
     with open("File","r") as f:
         words=f.read().split()

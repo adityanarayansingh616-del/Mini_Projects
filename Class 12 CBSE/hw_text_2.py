@@ -1,3 +1,4 @@
+#To append lines to a file and count words longer than 4 characters per line.
 f=open("jvm","a+")
 def Add():
     lines=[]

@@ -1,3 +1,4 @@
+#To calculate simple interest and total amount from principal, rate, and time.
 p=float(input("Enter the principal amount:"))
 r=float(input("Enter the rate of interest:"))
 t=int(input("Enter the number of years:"))

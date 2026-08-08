@@ -1,3 +1,4 @@
+#To print lines from a file that contain no vowels.
 def printnotvowel():
     f=open("File","r")
     lines=f.readlines()

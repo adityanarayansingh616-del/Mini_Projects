@@ -1,3 +1,4 @@
+#To find sum and average of multiples of 7 between two given values (exclusive).
 s=0;avg=0;c=0
 start=int(input("Enter start value:"))
 end=int(input("Enter end value:"))

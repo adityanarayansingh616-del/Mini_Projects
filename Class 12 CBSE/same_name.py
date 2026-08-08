@@ -1,3 +1,4 @@
+#To build a student dictionary and find registration numbers by name (case-insensitive).
 def same_name(student,nm):
     for regno in student:
         name=student[regno]

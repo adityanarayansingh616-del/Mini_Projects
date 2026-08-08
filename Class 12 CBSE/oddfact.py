@@ -1,3 +1,4 @@
+#To compute the sum of factorials of the first n odd numbers.
 def fact(n):
     p=1
     for i in range(1,n+1):

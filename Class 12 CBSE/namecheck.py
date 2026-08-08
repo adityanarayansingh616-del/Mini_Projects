@@ -1,3 +1,4 @@
+#To count names starting with an uppercase letter from 5 inputs.
 l=list()
 print("Enter 5 names:")
 for i in range(5):

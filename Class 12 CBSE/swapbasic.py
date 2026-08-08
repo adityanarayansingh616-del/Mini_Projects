@@ -1,3 +1,4 @@
+#To swap adjacent pairs of elements in a list.
 l=eval(input("Enter a list:"))
 for i in range(0,len(l),2):
     if l.index(l[i])==len(l)-1:

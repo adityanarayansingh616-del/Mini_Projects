@@ -1,3 +1,4 @@
+#To count frequency of each element in a tuple using a dictionary.
 t=(1,1,2,2,2,3,2)
 d=dict()
 for i in t:

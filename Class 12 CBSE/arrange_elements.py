@@ -1,3 +1,4 @@
+#To rearrange a list placing negatives first, positives last, and zeros in the middle.
 def ArrangeElements(X):
     l=[];x=0
     for i in X:

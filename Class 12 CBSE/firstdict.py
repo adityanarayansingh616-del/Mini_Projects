@@ -1,3 +1,4 @@
+#To store details of 5 students in a dictionary keyed by roll number.
 d=dict()
 print("Enter details of 5 students:")
 for i in range(5):

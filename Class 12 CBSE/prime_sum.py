@@ -1,3 +1,4 @@
+#To compute the sum of all prime numbers from 1 to N.
 def prime(n):
     c=0;check=False
     for i in range(1,n+1):

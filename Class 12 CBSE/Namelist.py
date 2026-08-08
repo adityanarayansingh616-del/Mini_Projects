@@ -1,3 +1,4 @@
+#To count names ending with 'ta' from 5 inputs.
 l=[];c=0
 print("Enter 5 names:")
 for i in range(5):

@@ -1,3 +1,4 @@
+#To append lines to a file and copy lines containing 'a' to another file.
 cf=open("copyfile","w")
 f=open("File","a+")
 def add():

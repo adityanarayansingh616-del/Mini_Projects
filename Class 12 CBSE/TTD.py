@@ -1,3 +1,4 @@
+#To classify a triangle as equilateral, isosceles, right-angled, or scalene from three sides.
 print("Enter three sides of a triangle:")
 s1 = float(input())
 s2 = float(input())

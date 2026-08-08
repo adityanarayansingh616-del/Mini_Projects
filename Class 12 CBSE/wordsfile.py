@@ -1,3 +1,4 @@
+#To print file lines containing more than 4 words.
 def printlines():
     with open("File","r")as f:
         lines=f.readlines()

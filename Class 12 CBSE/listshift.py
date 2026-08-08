@@ -1,3 +1,4 @@
+#To shift list elements one position right (last element moves to front).
 #l=eval(input("Enter a list of numbers:")) or
 l=[];nl=[]
 n=int(input("Enter number of elements to be entered:"))

@@ -1,3 +1,4 @@
+#To return a tuple of word lengths from a sentence.
 def LenWords(string):
     words=string.split()
     lengths=list()

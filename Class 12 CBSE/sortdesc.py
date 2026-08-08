@@ -1,3 +1,4 @@
+#To sort a list in descending order using bubble sort.
 l=eval(input("Enter a list of integers:"))
 for i in range(len(l)-1):
     for j in range(len(l)-1-i):

@@ -1,3 +1,4 @@
+#To extract elements at even positions from a tuple into a new tuple.
 t=eval(input("Enter a tuple:"))
 et=()
 for i in range(len(t)):

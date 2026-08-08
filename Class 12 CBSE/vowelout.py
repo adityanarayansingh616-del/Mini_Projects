@@ -1,3 +1,4 @@
+#To print names that contain no vowels.
 l=[]
 n=int(input("Enter number of names to be entered:"))
 print("Enter",n,"names:")

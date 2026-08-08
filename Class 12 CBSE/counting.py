@@ -1,3 +1,4 @@
+#To count positive and negative numbers from 10 user inputs.
 c=1;p=0;ne=0
 print("Enter 10 numbers:")
 while c<=10:

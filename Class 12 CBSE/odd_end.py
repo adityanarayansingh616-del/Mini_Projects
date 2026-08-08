@@ -1,3 +1,4 @@
+#To rearrange a list so odd numbers come at the end and evens at the beginning.
 def OddEnd(L):
     l=[];x=0
     for i in L:

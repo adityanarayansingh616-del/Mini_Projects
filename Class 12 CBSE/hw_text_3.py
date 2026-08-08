@@ -1,3 +1,4 @@
+#To append lines to a file and display each word separated by #.
 f=open("File","a+")
 def Add():
     lines=[]

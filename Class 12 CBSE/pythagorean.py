@@ -1,3 +1,4 @@
+#To find and print all Pythagorean triples with hypotenuse <=100.
 import math
 for i in range(1,99):
     for j in range(i+1,101):

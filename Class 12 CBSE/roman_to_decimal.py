@@ -1,3 +1,4 @@
+#To convert a Roman numeral to decimal using a pickled lookup dictionary.
 import pickle
 d={"I":1,"V":5,"X":10,"L":50,"C":100,"D":500,"M":1000}
 with open("roman_data","wb") as f:

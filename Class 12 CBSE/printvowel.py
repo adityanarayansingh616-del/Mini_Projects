@@ -1,3 +1,4 @@
+#To print file lines where every word contains at least one vowel.
 def printline():
     with open("File","r") as fob:
         lines=fob.readlines()

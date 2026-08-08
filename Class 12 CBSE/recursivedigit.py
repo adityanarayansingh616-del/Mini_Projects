@@ -1,3 +1,4 @@
+#To repeatedly sum digits of a number until a single digit remains (digital root).
 n=int(input("Enter a number with two or more digits:"))
 while True:
    if n//10==0:

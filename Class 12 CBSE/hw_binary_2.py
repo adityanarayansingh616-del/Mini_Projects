@@ -1,3 +1,4 @@
+#To add student records as dicts in a pickle file and search name by roll number.
 import pickle
 f=open("filebinary","wb+")
 def add():

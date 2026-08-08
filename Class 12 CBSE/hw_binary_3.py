@@ -1,3 +1,4 @@
+#To manage inventory records in a binary file with menu-driven add/display/search/update/delete.
 import pickle
 def add():
     f=open("filebinary","rb+")

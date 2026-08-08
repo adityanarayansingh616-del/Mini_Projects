@@ -1,3 +1,4 @@
+#To draw an arrowhead shape using the turtle graphics module.
 import turtle as t
 t.Screen()
 t.setup(800,500)

@@ -1,3 +1,4 @@
+#To compute the sum of series x - x^3/3! + x^5/5! - ... for n terms.
 x=float(input("Enter x:"))
 n=int(input("Enter n terms:"))
 s=0;sign=-1

@@ -1,3 +1,4 @@
+#To compute the sum of alternating odd numbers: 1 - 3 + 5 - 7 + ...
 x=1;sign=1;s=0
 n=int(input("Enter n terms:"))
 while n:

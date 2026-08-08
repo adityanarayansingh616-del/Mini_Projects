@@ -1,3 +1,4 @@
+#To write student records to a binary file and search those with marks >90.
 import pickle
 f=open("filebinary","wb")
 n=int(input("Enter no.of students:"))
