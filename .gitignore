@@ -1,0 +1,14 @@
+#Local Editor Settings
+.vscode/
+.idea/
+
+#Python Virtual Environments & Caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.cursorrules
+.dockerignore
+Dockerfile
+README.md
+*.txt
