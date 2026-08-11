@@ -1,3 +1,4 @@
+// Demonstrates method overloading to compute an alternating sign power/factorial series and a fractional step series.
 public class series_1
 {
     double series(double x,int n)

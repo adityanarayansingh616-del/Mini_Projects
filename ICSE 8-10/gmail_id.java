@@ -1,3 +1,4 @@
+// To check whether an entered string ends with @gmail.com.
 import java.util.Scanner;
 public class gmail_id
 {

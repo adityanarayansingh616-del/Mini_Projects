@@ -1,3 +1,4 @@
+// To sum matrix elements whose first and last digits are both even.
 public class DDA_SSE
 {
     public static void main(String args[])

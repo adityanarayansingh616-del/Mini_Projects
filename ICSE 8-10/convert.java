@@ -1,3 +1,4 @@
+// To shift vowels forward and consonants backward by one character in a string.
 import java.util.Scanner;
 public class convert
 {

@@ -1,3 +1,4 @@
+// To print consecutive-number blocks using nested loops.
 import java.util.*;
 public class nested
 {

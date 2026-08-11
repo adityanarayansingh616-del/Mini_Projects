@@ -1,3 +1,4 @@
+// To calculate the sum of factorials at terms increasing by three from 5.
 import java.util.*;
 public class fact
 {

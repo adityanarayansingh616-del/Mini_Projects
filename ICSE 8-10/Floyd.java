@@ -1,3 +1,4 @@
+// To generate Floyd’s number triangle for a given number of rows.
 import java.util.Scanner;
 public class Floyd
 {

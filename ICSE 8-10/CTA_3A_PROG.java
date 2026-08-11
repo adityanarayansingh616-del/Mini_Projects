@@ -1,3 +1,4 @@
+// To display a 4×4 matrix and calculate total, row, and column sums.
 import java.util.Scanner;
 public class CTA_3A_PROG
 {

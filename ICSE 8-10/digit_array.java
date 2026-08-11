@@ -1,3 +1,4 @@
+// To separately sum one-digit and two-digit numbers in an array.
 import java.util.Scanner;
 public class digit_array
 {

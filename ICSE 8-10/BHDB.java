@@ -1,3 +1,4 @@
+// To calculate compound interest and EMI from purchase amount and tenure.
 import java.util.*;
 public class BHDB
 {

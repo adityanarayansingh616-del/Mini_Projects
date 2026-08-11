@@ -1,3 +1,4 @@
+// To count digits, alphabets, whitespace, and special characters in a string.
 import java.util.Scanner;
 public class count
 {

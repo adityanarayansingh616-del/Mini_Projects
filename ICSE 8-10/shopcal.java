@@ -1,3 +1,4 @@
+// Calculates a customer's retail bill by applying tiered discounts and an 18% tax rate.
 //This is a program for shop calculation.>><<
 import java.util.Scanner;
 public class shopcal

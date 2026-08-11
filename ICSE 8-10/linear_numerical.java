@@ -1,3 +1,4 @@
+// To search for a number in an integer array using linear search.
 import java.util.Scanner;
 public class linear_numerical
 {

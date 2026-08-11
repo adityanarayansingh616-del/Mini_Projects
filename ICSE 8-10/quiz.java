@@ -1,3 +1,4 @@
+// To run a six-question multiple-choice quiz and calculate the score and percentage.
 //MRP.15
 import java.util.Scanner;
 public class quiz

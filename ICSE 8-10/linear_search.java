@@ -1,3 +1,4 @@
+// To search for a real number in a 20-element array using linear search.
 import java.util.Scanner;
 public class linear_search
 {

@@ -1,3 +1,4 @@
+// To decode class, year, centre number, and index number from an exam index string.
 import java.util.*;
 public class ICSE_ISC
 {

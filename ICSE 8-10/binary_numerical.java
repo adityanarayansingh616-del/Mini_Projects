@@ -1,3 +1,4 @@
+// To search a sorted integer array using binary search.
 import java.util.Scanner;
 public class binary_numerical
 {

@@ -1,3 +1,4 @@
+// To find the characters with the highest and lowest ASCII values.
 import java.util.Scanner;
 public class ASCII_SPECIAL
 {

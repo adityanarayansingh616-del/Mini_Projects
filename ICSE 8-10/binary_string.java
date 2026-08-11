@@ -1,3 +1,4 @@
+// To search a sorted string array using binary search and compareTo().
 import java.util.Scanner;
 public class binary_string
 {

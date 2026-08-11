@@ -1,3 +1,4 @@
+// To print each distinct character of a string only at its first occurrence.
 import java.util.*;
 public class repetitive_string
 {

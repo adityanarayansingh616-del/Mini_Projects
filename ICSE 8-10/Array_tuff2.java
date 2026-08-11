@@ -1,3 +1,4 @@
+// To calculate students’ average marks and each student’s deviation from it.
 import java.util.Scanner;
 public class Array_tuff2
 {

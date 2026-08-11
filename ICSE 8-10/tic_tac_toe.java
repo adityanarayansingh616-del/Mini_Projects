@@ -1,3 +1,4 @@
+// Implements a two-player console-based 3x3 Tic-Tac-Toe game with input validation and win/draw checks.
 import java.util.Scanner;
 import java.util.Arrays;
 import java.util.InputMismatchException;

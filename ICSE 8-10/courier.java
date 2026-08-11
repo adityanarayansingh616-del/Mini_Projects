@@ -1,3 +1,4 @@
+// To calculate a courier bill from parcel weight and domestic/international type.
 import java.util.Scanner;
 public class courier
 {

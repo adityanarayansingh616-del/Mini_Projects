@@ -1,3 +1,4 @@
+// To calculate the right-diagonal sum using direct indexing.
 import java.util.Scanner;
 public class DDA_RDGSFAV
 {

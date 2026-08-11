@@ -1,3 +1,4 @@
+// Accepts student details and allocates an academic stream based on marks obtained.
 import java.util.Scanner;
 public class Student
 {

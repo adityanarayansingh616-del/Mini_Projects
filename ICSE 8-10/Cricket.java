@@ -1,3 +1,4 @@
+// To run a simple player-vs-computer cricket game with batting, bowling, and results.
 //Cricket game(&&%%);>><<?@#!;MRP.100
 import java.util.Scanner;
 public class Cricket

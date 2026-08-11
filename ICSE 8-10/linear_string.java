@@ -1,3 +1,4 @@
+// To search for a name in a string array using linear search.
 import java.util.Scanner;
 public class linear_string
 {

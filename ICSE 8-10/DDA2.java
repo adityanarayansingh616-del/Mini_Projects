@@ -1,3 +1,4 @@
+// To check whether the two diagonal sums of a 4×4 matrix are equal.
 import java.util.Scanner;
 public class DDA2
 {

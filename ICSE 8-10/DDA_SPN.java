@@ -1,3 +1,4 @@
+// To find and sum all prime-number elements in a 4×4 matrix.
 import java.util.Scanner;
 public class DDA_SPN
 {

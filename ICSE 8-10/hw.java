@@ -1,3 +1,4 @@
+// To store multiple commented Java practice programs for string manipulation.
 /*import java.util.*;
 public class hw
 {

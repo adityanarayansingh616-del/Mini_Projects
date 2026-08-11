@@ -1,3 +1,4 @@
+// To calculate the right-diagonal sum of a predefined 3×3 matrix.
 public class DDA_RDGS3M
 {
     public static void main(String args[])

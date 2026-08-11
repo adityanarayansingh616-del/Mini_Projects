@@ -1,3 +1,4 @@
+// To calculate railway ticket cost from coach type and display passenger details.
 import java.util.Scanner;
 public class Railway_Ticket
 {

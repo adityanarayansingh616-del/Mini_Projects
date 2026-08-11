@@ -1,3 +1,4 @@
+// Validates whether a user-entered four-digit number is a tech number.
 import java.util.Scanner;
 public class tech_no
 {

@@ -1,3 +1,4 @@
+// To display palindromic numbers from an integer array.
 public class array_SDA
 {
     public static void main(String args[])

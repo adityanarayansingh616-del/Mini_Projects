@@ -1,3 +1,4 @@
+// Checks if a 4-digit number's total digit sum equals twice the sum of its first and last digits.
 import java.util.*;
 public class USHWA
 {

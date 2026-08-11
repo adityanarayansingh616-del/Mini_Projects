@@ -1,3 +1,4 @@
+// To check a 3×3 matrix for a Losho-grid condition using row and column sums.
 import java.util.Scanner;
 public class LOSHO
 {

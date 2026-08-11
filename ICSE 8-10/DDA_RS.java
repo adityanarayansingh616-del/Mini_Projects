@@ -1,3 +1,4 @@
+// To calculate the sum of every row of a 3×3 matrix.
 import java.util.Scanner;
 public class DDA_RS
 {

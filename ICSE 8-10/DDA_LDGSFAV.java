@@ -1,3 +1,4 @@
+// To calculate the left-diagonal sum using direct diagonal indexing.
 public class DDA_LDGSFAV
 {
     public static void main(String args[])

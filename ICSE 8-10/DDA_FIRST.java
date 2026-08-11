@@ -1,3 +1,4 @@
+// To input, display, and calculate the sums of all three rows of a 3×3 real matrix.
 import java.util.Scanner;
 public class DDA_FIRST
 {

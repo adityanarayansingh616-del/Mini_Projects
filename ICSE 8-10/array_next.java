@@ -1,3 +1,4 @@
+// To display palindrome words from a string array.
 public class array_next
 {
     public static void main(String args[])

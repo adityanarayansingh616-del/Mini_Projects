@@ -1,3 +1,4 @@
+// To sort integers in descending order using selection sort.
 import java.util.Scanner;
 public class selection_nd
 {

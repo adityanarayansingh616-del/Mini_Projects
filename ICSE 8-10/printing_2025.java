@@ -1,3 +1,4 @@
+// To demonstrate overloaded methods for a symbol pattern, series sum, and ASCII comparison.
 public class printing_2025
 {
     void print()

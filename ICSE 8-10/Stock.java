@@ -1,3 +1,4 @@
+// Manages product inventory items by calculating total purchase cost, applying quantity discounts, and displaying net amounts.
 public class Stock
 {
     String Pname;int qty;double price,totalCost,dis,netAmount;

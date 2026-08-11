@@ -1,3 +1,4 @@
+// Calculates the sum of a nested triangular series where inner sums from 1 to i are accumulated up to i = 20.
 public class series_2
 {
     public static void main(String args[])

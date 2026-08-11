@@ -1,3 +1,4 @@
+// To calculate an e-shop item’s discounted price based on its price range.
 import java.util.Scanner;
 public class Eshop
 {

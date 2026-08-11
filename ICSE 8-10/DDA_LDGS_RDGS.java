@@ -1,3 +1,4 @@
+// To calculate the left and right diagonal sums of a 3×3 matrix.
 import java.util.Scanner;
 public class DDA_LDGS_RDGS
 {

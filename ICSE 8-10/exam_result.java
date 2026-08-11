@@ -1,3 +1,4 @@
+// To validate subject marks and calculate a student’s total marks and percentage.
 //This is a program for result calculation.<<>>;MRP.50
 import java.util.Scanner;
 public class exam_result

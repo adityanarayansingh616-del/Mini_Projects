@@ -1,3 +1,4 @@
+// Sorts an array of 10 integers in ascending order using the selection sort algorithm.
 import java.util.Scanner;
 public class selection_sort
 {

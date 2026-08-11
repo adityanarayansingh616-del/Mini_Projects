@@ -1,3 +1,4 @@
+// To input fruit-juice product details, apply a fixed discount, and display them.
 import java.util.Scanner;
 public class FruitJuice
 {

@@ -1,3 +1,4 @@
+// To classify 100 students’ marks into four score ranges and count each group.
 import java.util.Scanner;
 public class ICSE_2025
 {

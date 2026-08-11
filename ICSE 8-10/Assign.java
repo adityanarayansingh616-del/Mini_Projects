@@ -1,3 +1,4 @@
+// To store multiple Java practice programs for vowels, character counting, and patterns.
 /*import java.util.*;
 public class Assign
 {

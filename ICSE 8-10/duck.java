@@ -1,3 +1,4 @@
+// To check whether a three-digit number contains the digit zero.
 import java.util.Scanner;
 public class duck
 {

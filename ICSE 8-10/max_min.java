@@ -1,3 +1,4 @@
+// To find the maximum and minimum values in an integer array.
 import java.util.Scanner;
 public class max_min
 {

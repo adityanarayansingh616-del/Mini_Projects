@@ -1,3 +1,4 @@
+// To check whether a number is a palindrome with an even digit sum.
 import java.util.Scanner;
 public class EvenPal
 {

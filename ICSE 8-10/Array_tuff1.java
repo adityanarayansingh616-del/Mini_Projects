@@ -1,3 +1,4 @@
+// To calculate 8% discount and final amount for 15 products and their total.
 import java.util.Scanner;
 public class Array_tuff1
 {

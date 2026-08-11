@@ -1,3 +1,4 @@
+// To display a flag-like pattern using nested loops.
 //FLAG DISPLAY. MRP.10
 public class flag
 {

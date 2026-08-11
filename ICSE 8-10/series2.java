@@ -1,3 +1,4 @@
+// Demonstrates method overloading to calculate power series, print cube-minus-one series, and compute reciprocal sums.
 public class series2
 {
     void series(int x,int n)

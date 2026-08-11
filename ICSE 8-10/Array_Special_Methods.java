@@ -1,3 +1,4 @@
+// To sort an integer array and search it using Java Arrays methods.
 import java.util.Scanner;
 import java.util.Arrays;
 public class Array_Special_Methods{

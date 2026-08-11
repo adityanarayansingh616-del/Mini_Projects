@@ -1,3 +1,4 @@
+// To check whether a 3×3 matrix has equal sums of even and odd elements.
 import java.util.Scanner;
 public class DDA
 {

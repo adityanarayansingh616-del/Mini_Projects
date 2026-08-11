@@ -1,3 +1,4 @@
+// To find the largest and smallest digits and determine whether their sum is even or odd.
 import java.util.Scanner;
 public class even_odd
 {

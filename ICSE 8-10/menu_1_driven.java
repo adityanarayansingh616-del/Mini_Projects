@@ -1,3 +1,4 @@
+// To use a menu to find a number’s factor sum or check its Dudney-number condition.
 import java.util.Scanner;
 public class menu_1_driven
 {

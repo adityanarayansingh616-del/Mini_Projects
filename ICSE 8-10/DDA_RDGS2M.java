@@ -1,3 +1,4 @@
+// To calculate the right-diagonal sum of an input 4×4 matrix.
 import java.util.Scanner;
 public class DDA_RDGS2M
 {

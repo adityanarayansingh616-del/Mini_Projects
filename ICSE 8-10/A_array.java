@@ -1,3 +1,4 @@
+// To display words that start and end with A or a.
 import java.util.Scanner;
 public class A_array
 {

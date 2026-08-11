@@ -1,3 +1,4 @@
+// To check password strength using length, uppercase, lowercase, digit, and special-character counts.
 import java.util.Scanner;
 public class Password_Strength
 {

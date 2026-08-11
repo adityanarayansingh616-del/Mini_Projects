@@ -1,3 +1,4 @@
+// Generates a menu-driven right-angled or inverted right-angled number triangle based on chosen height.
 import java.util.Scanner;
 public class tri
 {

@@ -1,3 +1,4 @@
+// Sorts an array of 5 string inputs in ascending alphabetical order using selection sort.
 import java.util.Scanner;
 public class selection_sa
 {

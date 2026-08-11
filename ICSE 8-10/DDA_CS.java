@@ -1,3 +1,4 @@
+// To calculate the sum of each column of a predefined 3×3 matrix.
 public class DDA_CS
 {
     public static void main(String args[])

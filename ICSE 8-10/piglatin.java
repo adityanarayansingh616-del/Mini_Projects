@@ -1,3 +1,4 @@
+// To convert a word to Pig Latin by moving its leading consonants before “ay”.
 import java.util.*;
 public class piglatin
 {

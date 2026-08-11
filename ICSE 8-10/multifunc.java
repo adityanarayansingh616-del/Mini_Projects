@@ -1,3 +1,4 @@
+// To provide a 20-option menu for common number operations and number-property checks.
 //MRP.75
 import java.util.Scanner;
 public class multifunc

@@ -1,3 +1,4 @@
+// Encrypts an uppercase string by shifting vowels to the next character and consonants to the previous character.
 import java.util.Scanner;
 public class Special_String_convertreferto
 {

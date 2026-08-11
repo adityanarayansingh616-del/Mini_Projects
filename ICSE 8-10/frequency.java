@@ -1,3 +1,4 @@
+// To display the frequency of each alphabet present in a string.
 import java.util.*;
 public class frequency
 {

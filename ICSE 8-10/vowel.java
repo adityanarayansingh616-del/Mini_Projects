@@ -1,3 +1,4 @@
+// Counts and prints the total number of vowels in a single-word string input.
 import java.util.Scanner;
 public class vowel
 {

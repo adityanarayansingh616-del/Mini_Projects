@@ -1,3 +1,4 @@
+// To find and display the longest word and its length in a sentence.
 import java.util.Scanner;
 public class longest
 {

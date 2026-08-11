@@ -1,3 +1,4 @@
+// To display words whose first and last characters are vowels.
 public class array_new
 {
     public static void main(String args[])

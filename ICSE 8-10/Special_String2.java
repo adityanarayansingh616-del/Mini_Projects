@@ -1,3 +1,4 @@
+// Capitalizes the first letter of each word in an input string while leaving other letters in lowercase.
 import java.util.Scanner;
 public class Special_String2
 {

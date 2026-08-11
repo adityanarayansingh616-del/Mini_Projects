@@ -1,3 +1,4 @@
+// To sort characters in ascending ASCII order using bubble sort.
 import java.util.Scanner;
 public class bubble_sort
 {

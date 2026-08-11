@@ -1,3 +1,4 @@
+// To sort integers in ascending order using bubble sort.
 import java.util.Scanner;
 public class bubble_na
 {

@@ -1,3 +1,4 @@
+// To calculate the left-diagonal sum of a predefined 4×4 matrix.
 public class DDA_LDGS2M
 {
     public static void main(String args[])

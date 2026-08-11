@@ -1,3 +1,4 @@
+// To sort names in ascending alphabetical order using bubble sort.
 import java.util.Scanner;
 public class bubble_sa
 {

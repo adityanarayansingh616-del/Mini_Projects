@@ -1,3 +1,4 @@
+// To convert a full name into initials followed by the surname.
 import java.util.Scanner;
 public class MKG
 {

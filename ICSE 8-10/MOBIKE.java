@@ -1,3 +1,4 @@
+// To calculate a bike rental charge based on distance travelled.
 import java.util.Scanner;
 public class MOBIKE
 {

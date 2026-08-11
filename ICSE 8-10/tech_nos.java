@@ -1,3 +1,4 @@
+// Finds and prints all 4-digit tech numbers where the square of the sum of split halves equals the number.
 public class tech_nos
 {
     public static void main(String args[])
