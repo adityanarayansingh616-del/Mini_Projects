@@ -9,7 +9,6 @@ __pycache__/
 .cursorrules
 .dockerignore
 Dockerfile
-README.md
 *.txt
 Files
 game1.py
