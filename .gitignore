@@ -1,7 +1,6 @@
 #Local Editor Settings
 .vscode/
 .idea/
-
 #Python Virtual Environments & Caches
 .venv/
 venv/
@@ -12,3 +11,6 @@ __pycache__/
 Dockerfile
 README.md
 *.txt
+Files
+game1.py
+game2.py
