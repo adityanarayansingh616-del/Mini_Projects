@@ -25,3 +25,4 @@ def increase():
     f.close()
 add()
 increase()
+#Best method for binary file codes is to open and close files multiple times in a program as per need to reduce unwanted complexity!
