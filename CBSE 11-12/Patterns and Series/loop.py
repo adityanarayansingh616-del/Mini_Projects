@@ -7,5 +7,3 @@ while c<=n:#Also using for loop
     sign*=-1
     c+=1
 print(s)
-
-

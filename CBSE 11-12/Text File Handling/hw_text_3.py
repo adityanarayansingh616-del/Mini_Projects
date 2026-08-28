@@ -20,6 +20,3 @@ def display():
 Add()
 display()
 f.close()
-
-
-
