@@ -1,6 +1,6 @@
 #To append lines to a file and copy lines containing 'a' to another file.
-cf=open("copyfile","w")
-f=open("File","a+")
+cf=open("copyfile.txt","w")
+f=open("File.txt","a+")
 def add():
     lines=[]
     n=int(input("Enter no.of lines:"))
