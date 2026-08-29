@@ -1,5 +1,5 @@
 #To append lines to a file and display lines starting with a vowel along with their count.
-fob=open("jvm","a+")
+fob=open("File.txt","a+")
 def add(n):
     for i in range(n):
         line=input("Enter a line:")+"\n"

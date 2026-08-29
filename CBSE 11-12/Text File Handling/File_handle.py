@@ -1,5 +1,5 @@
 #To write 5 lines to a file, display vowel-starting lines, and count total words.
-f=open("File","w+")
+f=open("File.txt","w+")
 def add():
     for i in range(5):
         print("Enter line",i+1,end=":")

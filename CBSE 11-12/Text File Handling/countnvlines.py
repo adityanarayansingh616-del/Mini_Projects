@@ -1,7 +1,7 @@
 #To count lines in a file that contain no vowels.
 def countnvlines():
     c=0
-    f=open("File","r")
+    f=open("File.txt","r")
     lines=f.readlines()
     for line in lines:
         check=True
