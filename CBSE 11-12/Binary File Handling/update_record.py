@@ -2,7 +2,7 @@
 import pickle as pk
 def add():
     l=[]
-    f=open("filebinary","wb")
+    f=open("filebinary.bin","wb")
     n=int(input("Enter no.of data:"))
     for i in range(n):
         emp_id=int(input("Enter Employee ID:"))
@@ -12,7 +12,7 @@ def add():
     pk.dump(l,f)
     f.close()
 def increase():
-    f=open("filebinary","rb+")
+    f=open("filebinary.bin","rb+")
     ID=int(input("Enter employee id to update salary:"))
     data=pk.load(f)
     for i in data:

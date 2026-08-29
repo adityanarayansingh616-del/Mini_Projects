@@ -2,7 +2,7 @@
 #Menu driven code to add records or display records using a binary file.
 import pickle
 def add_records(n):
-    f=open("filebinary","wb")
+    f=open("filebinary.bin","wb")
     for i in range(n):
         roll=int(input("Enter roll:"))
         nm=input("Enter name:")
@@ -11,7 +11,7 @@ def add_records(n):
     f.close()
 def display():
     c=0
-    f=open("filebinary","rb")
+    f=open("filebinary.bin","rb")
     while True:
         try:
             data=pickle.load(f)

@@ -1,6 +1,6 @@
 #To add student records to a pickle file and update marks by roll number.
 import pickle as pk
-fob=open("filebinary","wb+")
+fob=open("filebinary.bin","wb+")
 def add():
     l=rec=list()
     n=int(input("Enter no. of records:"))

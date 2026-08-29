@@ -1,7 +1,7 @@
 #To add data to a binary file and delete a record on the basis of book ID entered by the user.
 import pickle as pk
 def add_data():
-    f=open("filebinary","wb")
+    f=open("filebinary.bin","wb")
     while True:
         book_ID=int(input("Enter book ID:"))
         book_nm=input("Enter book name:")
@@ -12,7 +12,7 @@ def add_data():
             break
     f.close()
 def delete():
-    f=open("filebinary","rb")
+    f=open("filebinary.bin","rb")
     ID=int(input("Enter book ID to remove record:"))
     l=list()
     try:
@@ -24,7 +24,7 @@ def delete():
     except EOFError:
         pass
     f.close()
-    f=open("filebinary","wb+")
+    f=open("filebinary.bin","wb+")
     for i in l:
         pk.dump(i,f)
     f.seek(0)

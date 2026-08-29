@@ -1,7 +1,7 @@
 #To manage inventory records in a binary file with menu-driven add/display/search/update/delete.
 import pickle
 def add():
-    f=open("filebinary","rb+")
+    f=open("filebinary.bin","rb+")
     stc=[]
     try:
         stc=pickle.load(f)
@@ -18,7 +18,7 @@ def add():
     pickle.dump(stc,f)
     f.close()
 def display():
-    with open("filebinary","rb") as f:
+    with open("filebinary.bin","rb") as f:
         try:
             records=pickle.load(f)
             for record in records:
@@ -26,7 +26,7 @@ def display():
         except EOFError:
             print("No record found!")
 def search():
-    with open("filebinary","rb") as f:
+    with open("filebinary.bin","rb") as f:
         try:
             records=pickle.load(f)
             for record in records:
@@ -37,7 +37,7 @@ def search():
             print("No record found!")
 def update():
     up_it_num=int(input("Enter item number for updation:"))
-    with open("filebinary","rb+") as f:
+    with open("filebinary.bin","rb+") as f:
         try:
             records=pickle.load(f)
             for record in records:
@@ -49,7 +49,7 @@ def update():
         except EOFError:
             print("No record found!")
 def delete():
-    with open("filebinary","rb+") as f:
+    with open("filebinary.bin","rb+") as f:
         try:
             records=pickle.load(f)
             for record in records:
@@ -79,7 +79,7 @@ while True:
         print("Incorrect choice.")
 #You can also create two more funcs to reduce the length of this code without altering logic. One for loading records and one for saving updated records.
 '''import pickle
-FILENAME = "filebinary"
+FILENAME = "filebinary.bin"
 def load_records():
     try:
         with open(FILENAME, "rb") as f:
